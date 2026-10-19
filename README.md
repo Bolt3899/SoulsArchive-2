@@ -1,1 +1,43 @@
 # SoulsArchive
+
+# ⚔️ SoulArchive Wiki — Enciclopédia Digital Dark Souls
+
+> **"May the Flames Guide Thee"** 🔥
+
+O **SoulArchive Wiki** é uma plataforma enciclopédica conceitual dedicada ao universo do jogo *Dark Souls*. Desenvolvido como projeto prático para a disciplina de **Programação Web**, o site centraliza informações sobre a complexa lore, chefes lendários, mapas estruturais e builds, envelopado em uma interface de estética *Premium Dark Fantasy*.
+
+---
+
+## 👨‍💻 Equipe de Desenvolvimento & Contexto Acadêmico
+
+* **Discentes/Desenvolvedores:** * **Guilherme Silva Teixeira** — *Designer Front-End (UI/UX e Estilização CSS3)*
+  * **Vinícius Marcelo Lisboa** — *Programador Back-End (Estrutura Lógica e Semântica)*
+* **Componente Curricular:** Programação para Web
+* **Ano de Entrega:** 2026
+* **Abordagem Técnica:** Projeto focado em semântica estrutural e design imersivo puramente nativo.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Em total conformidade com as diretrizes acadêmicas de desenvolvimento limpo, o projeto foi construído utilizando **tecnologias puras (Vanilla)**, sem o uso de frameworks pesados ou bibliotecas que mascarem o aprendizado da sintaxe:
+
+* **HTML5 Avançado:** Estruturação semântica rigorosa para indexação e acessibilidade (tags `header`, `main`, `section`, `article`, `footer`).
+* **CSS3 Premium:** * Layouts robustos e responsivos construídos com **CSS Grid Layout** e **Flexbox**.
+  * Gerenciamento de design tokenizado através de **Variáveis CSS (`:root`)** para cores (tons de cinza profundo, preto e dourado-brasa) e tipografia.
+  * Efeitos imersivos de transição (`transition`) e animações dinâmicas de interface.
+* **Google Fonts:** Integração das fontes *Cinzel* (para títulos heráldicos e medievais) e *Inter* (para máxima legibilidade do corpo do texto).
+* **Font Awesome:** Ícones vetoriais customizados para a temática de RPG.
+
+---
+
+## 📂 Arquitetura e Estrutura de Páginas
+
+O mapa de navegação do site foi planejado de forma linear e otimizada, dividindo-se nas seguintes seções:
+
+```text
+├── index.html          # Home: Portal de entrada imersivo e objetivos do site
+├── lore.html           # Lore: Detalhes sobre as Almas dos Lordes e a Primeira Chama
+├── bosses.html         # Bosses: Enciclopédia de chefes (Ornstein & Smough, Artorias, Manus)
+├── builds.html         # Builds: Guias táticos de progressão e atributos do jogador
+└── mapas.html          # Mapas: Análise da geografia vertical e interconectada de Lordran
